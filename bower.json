@@ -1,12 +1,12 @@
 {
   "name": "ng-dpd-user-component",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "homepage": "https://github.com/ng-dpd/user-component",
   "authors": [
     "Jeff Cross <middlefloor@gmail.com>"
   ],
   "description": "An AngularJS component for deployd user login/logout/register optimized for Bootstrap 3.",
-  "main": "dist/user-component.js",
+  "main": "user-component.js",
   "keywords": [
     "deployd",
     "dpd",
